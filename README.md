@@ -1,3 +1,3 @@
 # python
 
-Repo to keep Pythong scripts and efforts
+Repo to keep Python scripts and efforts
