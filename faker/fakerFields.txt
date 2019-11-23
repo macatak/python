@@ -1,0 +1,46 @@
+Personal
+    city: North Brian
+    date_of_birth: 1967-01-28
+    email: kristyharris@hotmail.com
+    last_name: Gregory
+    first_name: Samantha
+    license_plate: ADU 120
+    name: Mallory Martinez
+    phone_number: 7645278150
+    postalcode: 33448
+    profile: 
+    simple_profile: 
+    ssn: 273-84-5311
+    state: Missouri
+    state_abbr: NV
+    street_address: 9630 Rivas Light Suite 976
+    zipcode: 51302
+    zipcode_in_state: 36518
+    zipcode_plus4: 19190-4436
+
+Creds
+    user_name: stonesean
+    password: 1+SfJkuR&+
+    
+Credit Card
+    CVV: 421
+    credit_card_number: 4390681037175054203
+
+Web Traffic
+    image_url: https://dummyimage.com/221x525
+    ipv4: 161.72.124.0
+    uri: https://www.barker-ross.com/search.php
+    url: http://www.wagner-hughes.net/
+    user_agent: Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.1)
+
+Location
+    latitude: 11.7571925
+    longitude: -46.542233
+
+Misc
+    mac_address: 7f:0a:8c:6d:46:c1
+    md5: 746584c7d606c906cc108e17048b91c6
+    sentence: Usually drive crime night boy on treat.
+    sha1: f9ee9c209b3ccfb682bc79deea6a438b711bf8cf
+    
+    uuid4: 9f7a46a1-a87e-49ca-a3b8-83d78689a1e7

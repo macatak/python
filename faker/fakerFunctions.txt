@@ -1,0 +1,220 @@
+[Command: /usr/bin/python3 -u /home/zaphod/atom_workspace/LogGenerator/faker_101.py]
+address: 40851 Jamie Pines Apt. 925
+Taylorberg, NE 72305
+am_pm: PM
+android_platform_token: Android 7.0
+ascii_company_email: michaelbates@vargas-graham.org
+ascii_email: harold48@gmail.com
+ascii_free_email: steven05@gmail.com
+ascii_safe_email: phillip05@example.net
+bban: RQPK21408880298188
+boolean: False
+bothify: 72 rq
+bs: generate scalable solutions
+building_number: 06837
+catch_phrase: Integrated homogeneous website
+century: VIII
+chrome: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/49.0.811.0 Safari/536.0
+city: Lake Jason
+city_prefix: Lake
+city_suffix: ton
+color_name: LightSkyBlue
+company: Miller Ltd
+company_email: vpeterson@simmons-foster.com
+company_suffix: Inc
+coordinate: -110.653787
+country: Grenada
+country_code: BE
+credit_card_expire: 01/20
+credit_card_full: JCB 15 digit
+David Stevens
+213163098143836 07/21
+CVC: 515
+
+credit_card_number: 4238963425853202
+credit_card_provider: VISA 16 digit
+credit_card_security_code: 487
+cryptocurrency: ('XPM', 'Primecoin')
+cryptocurrency_code: DOGE
+cryptocurrency_name: Dogecoin
+currency: ('UZS', 'Uzbekistani soʻm')
+currency_code: ALL
+currency_name: Australian dollar
+date: 1977-04-01
+date_between: 1989-12-14
+date_between_dates: 2019-11-23
+date_object: 2008-09-30
+date_of_birth: 1912-06-09
+date_this_century: 2015-11-22
+date_this_decade: 2019-02-10
+date_this_month: 2019-11-15
+date_this_year: 2019-04-29
+date_time: 1986-10-17 08:58:25
+date_time_ad: 0440-12-06 13:38:25
+date_time_between: 2006-12-21 09:20:40
+date_time_between_dates: 2019-11-23 11:30:04
+date_time_this_century: 2005-07-21 12:04:36
+date_time_this_decade: 2010-08-18 19:41:05
+date_time_this_month: 2019-11-14 00:46:46
+date_time_this_year: 2019-05-13 10:45:49
+day_of_month: 14
+day_of_week: Sunday
+domain_name: meyers.info
+domain_word: miller
+ean: 4653920546460
+ean8: 46316851
+ein: 47-5121577
+email: tmalone@roberson.net
+file_extension: avi
+file_name: letter.png
+file_path: /country/past.mp4
+firefox: Mozilla/5.0 (Android 4.0.1; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0
+first_name: Patrick
+first_name_female: Debra
+first_name_male: Troy
+free_email: munozheidi@yahoo.com
+free_email_domain: gmail.com
+future_date: 2019-11-29
+future_datetime: 2019-12-04 00:57:23
+get_providers: [<faker.providers.user_agent.Provider object at 0x7f64d9f3b160>, <faker.providers.ssn.en_US.Provider object at 0x7f64da1756d8>, <faker.providers.python.Provider object at 0x7f64d9f3bf98>, <faker.providers.profile.Provider object at 0x7f64d9f3bda0>, <faker.providers.phone_number.en_US.Provider object at 0x7f64d9f3be10>, <faker.providers.person.en_US.Provider object at 0x7f64da18d438>, <faker.providers.misc.en_US.Provider object at 0x7f64d9f3bf28>, <faker.providers.lorem.en_US.Provider object at 0x7f64d9f3bcc0>, <faker.providers.job.en_US.Provider object at 0x7f64d9f3bcf8>, <faker.providers.isbn.Provider object at 0x7f64dc33e978>, <faker.providers.internet.en_US.Provider object at 0x7f64d9f29518>, <faker.providers.geo.en_US.Provider object at 0x7f64d9f37fd0>, <faker.providers.file.Provider object at 0x7f64d9f37f28>, <faker.providers.date_time.en_US.Provider object at 0x7f64d9f37eb8>, <faker.providers.currency.Provider object at 0x7f64d9f37b70>, <faker.providers.credit_card.Provider object at 0x7f64d9f37a90>, <faker.providers.company.en_US.Provider object at 0x7f64d9f37b38>, <faker.providers.color.en_US.Provider object at 0x7f64d9f29358>, <faker.providers.barcode.Provider object at 0x7f64d9f29198>, <faker.providers.bank.en_GB.Provider object at 0x7f64dbac4668>, <faker.providers.automotive.en_US.Provider object at 0x7f64dc28c128>, <faker.providers.address.en_US.Provider object at 0x7f64db26c5f8>]
+hex_color: #a3a8cc
+hexify: 92b1
+hostname: desktop-75.cole.com
+iban: GB21DSCW20493543156127
+image_url: https://www.lorempixel.com/243/323
+internet_explorer: Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/3.1)
+invalid_ssn: 569-98-0000
+ios_platform_token: iPhone; CPU iPhone OS 4_2_1 like Mac OS X
+ipv4: 8.35.124.203
+ipv4_network_class: b
+ipv4_private: 192.168.202.121
+ipv4_public: 80.134.153.146
+ipv6: 2ce9:8e5b:4035:f44a:4f9a:5406:cebd:42cb
+itin: 991-87-8363
+job: Technical brewer
+language_code:ne
+last_name: Norton
+last_name_female: Miller
+last_name_male: Campbell
+latitude: -21.0498345
+latlng: (Decimal('31.1740715'), Decimal('-166.424239'))
+lexify: rjwd
+license_plate: MTX 227
+linux_platform_token: X11; Linux x86_64
+linux_processor: i686
+local_latlng: ('46.09273', '-88.64235', 'Iron River', 'US', 'America/Menominee')
+locale: nr_ZA
+location_on_land: ('11.84962', '-86.19903', 'Jinotepe', 'NI', 'America/Managua')
+longitude: -100.009102
+mac_address: 26:e0:1c:99:8b:49
+mac_platform_token: Macintosh; U; Intel Mac OS X 10_9_3
+mac_processor: U; PPC
+md5: 00de9adb94dbba7b402cc2cf693443bc
+military_apo: PSC 3854, Box 9614
+military_dpo: Unit 1374 Box 0844
+military_ship: USS
+military_state: AE
+mime_type: application/rdf+xml
+month: 08
+month_name: May
+msisdn: 1656690048922
+name: David Wells
+fname_female: Sara Allen
+name_male: Steven Thomas
+null_boolean: False
+numerify: 706
+opera: Opera/9.29.(X11; Linux x86_64; ko-KR) Presto/2.9.187 Version/11.00
+paragraph: Reason late minute surface page. Seek law Congress alone defense voice now reality.
+paragraphs: ['Eight maintain dog service room class summer arm. Yet rule evening single. Pull election old. Congress himself heart best general whose and.', 'Different adult democratic mission. Opportunity none I teacher candidate stuff picture wish.', 'Resource leave red station present project modern.']
+password: %jVF7U)s9K
+past_date: 2019-11-01
+past_datetime: 2019-11-02 09:27:37
+phone_number: +1-547-289-3857
+postalcode: 56774
+postalcode_in_state: 38672
+postalcode_plus4: 24812-7443
+postcode: 74912
+postcode_in_state: 70956
+prefix: Mr.
+prefix_female: Dr.
+prefix_male: Dr.
+profile: {'job': 'Public house manager', 'company': 'Jensen and Sons', 'ssn': '594-31-1425', 'residence': '9128 Evans Bridge\nNorth Brycefort, NY 01428', 'current_location': (Decimal('-21.9993295'), Decimal('178.393825')), 'blood_group': 'B-', 'website': ['http://www.smith.org/'], 'username': 'jessica93', 'name': 'Kimberly Lewis', 'sex': 'F', 'address': '080 Patrick Meadow\nPhilipstad, UT 11324', 'mail': 'karenkelly@yahoo.com', 'birthdate': datetime.date(1991, 5, 1)}
+pybool: False
+pydecimal: -7446509330.9903
+pydict: {'enjoy': Decimal('-7.304832'), 'investment': 637, 'among': Decimal('5681745847268.1'), 'provide': 'russell63@barrett.org', 'why': -364713052157.72, 'spend': 'zwagner@yahoo.com', 'body': Decimal('61735818783.1'), 'modern': 'rDzNEsVaGrgzVdwNhbne', 'win': 'http://www.lowe.org/'}
+pyfloat: -913.0
+pyint: 3243
+pyiterable: [Decimal('-448.288'), datetime.datetime(1974, 5, 5, 14, 45, 6), 'https://anderson.net/main/list/home/', 'MzpEHqikGfEATLMEfEYI', 'YTgnfwBeGsVlYSpNFVSO', 'iGSkTIXCSLEBKmwmMDZB', 'tcBbKvbmWvoFGhTxqpJJ', 'http://www.baldwin.com/privacy/', 'gqwnbFgFdMYwGJBarOOb']
+pylist: ['yhDWiRPCdDxOLNSMxbpz', 'mgordon@yahoo.com', 'gkHmhDxJPQSIRWnkxUlA', 1167, 5601, 'msPNDSVZgMRLeKwVYiyD', 'NosAKXVMDcigwkhUKqgB', 7188, 'vTZyFnrKKJXPjAeBcSzJ', -3472051648757.2, 'TNlYcLaCQWtoyQZMbvAa', 'eMRHdPwdGBgwkdXDxNig']
+pyset: {'cookkelly@hotmail.com', 'rOGvNEQGaLSSqIxbCOst', 'https://www.delgado-castillo.org/app/main.php', Decimal('94720333.5422589'), 'yBtMmEmKbmDgmAfIoruX', 'EVysrgBQOgoDWpUUpSMZ', 'kXHjdHpkcsPddyDJuRKs', 7423}
+pystr: hStkSosyrPPEQufeKBRR
+pystr_format: T4-8731583D
+pystruct: (['https://brown.info/category/faq/', 2258, 301288.154052, 'michelebrown@yahoo.com', 420, 'BUhGxikLpfawsaSvrEtD', 'noblemichael@howell.com', datetime.datetime(2015, 1, 29, 6, 16, 21), 9585, -571.64610672938], {'suffer': -500.31882042, 'tend': 1430, 'minute': 'https://www.young-wood.com/', 'performance': 1135, 'both': 'tdrQpukOtqtKkwqjBWOk', 'side': 2784, 'decision': 'SUsOgGvIDoXJcLvJCLRE', 'spend': 'HRJgxLzjDnLsbbXtkmHM', 'book': -602.552, 'short': 'http://johnson.net/search/wp-content/login/'}, {'expert': {0: 'IwoZOtrunTYbsOjrMGvI', 1: [Decimal('48887680.796'), 'TxwYeFNGZyNbKaHBeYna', 'eSKcVbWKIsSgOzXIvKMV'], 2: {0: datetime.datetime(2008, 4, 17, 1, 57, 11), 1: 'TtLevuZtrPnBPWhYzICc', 2: ['https://www.garner.org/about.html', 875]}}, 'season': {1: 'RrpSEKBUdhObdgAYnuaL', 2: ['SSedtEcaikDOknVRxAuY', 'byMoSGrTuYwnGpptCaCS', 9084], 3: {1: 'CyvFLtekERtUTQJyIjaP', 2: 'http://www.copeland-tyler.info/tag/search/category/about/', 3: ['eQHDVWgPkWuhUzNSaAyY', 'ocLNtQcJkbWvhFassfJh']}}, 'his': {2: Decimal('7856798149623.0'), 3: ['qPmqpKGxwYTlZbAGFlIY', 700, datetime.datetime(1973, 12, 14, 23, 35, 31)], 4: {2: 7157, 3: 4259, 4: [66.61444, datetime.datetime(2011, 6, 18, 23, 3, 46)]}}, 'own': {3: 'nwQsvbUefDFobylhuhCY', 4: [1819, 'PaDxjMvMpqgSeAgNxPQS', Decimal('51831218413.47')], 5: {3: 878993325276.15, 4: -91.436246975905, 5: [-959881169898226.0, -1435032.97245136]}}, 'left': {4: Decimal('-6947842753.9446'), 5: [datetime.datetime(2019, 9, 6, 6, 48, 53), 9347, Decimal('5558956889.72413')], 6: {4: 'PUwdquZYfMsSpMrCUtBZ', 5: 79583.298642712, 6: ['PzBXUaKVKNDjEZPMkUze', datetime.datetime(1981, 6, 26, 3, 34, 2)]}}, 'thousand': {5: 'uGwJsPktjFTZlRzfdqme', 6: ['tNJXCBEagCnZUsBENriw', Decimal('-47033727.72'), 'tayloralejandro@gmail.com'], 7: {5: Decimal('824856537802722.0'), 6: 'https://www.wilson.com/faq.php', 7: ['lnhnXXwREiTFAsvukCeS', 'https://johnson.info/']}}, 'nation': {6: -55620672902.2365, 7: ['GThSZsGtcXrtFwmfgnvX', 'fstgumqipOHDJuVREVBr', 'uWrESIdTuYyqIkWodAem'], 8: {6: 'JEKklhTudvylOrNidEAR', 7: Decimal('-3290860864062.0'), 8: [-137959495239715.0, 6160]}}, 'political': {7: 'http://www.garza.com/posts/index/', 8: ['SmycplOkUPlnUICIpkHF', 'yBTwzFULTrLgUGYCzKyj', 'https://www.sanchez.com/register/'], 9: {7: Decimal('37.988189526'), 8: -68165231456.5953, 9: [6843, Decimal('-814.953')]}}, 'poor': {8: 'http://www.savage.com/homepage.htm', 9: [-460015284.2584, 'XuFgsgcRPBOYXcMyDbBg', 'https://www.griffin.biz/list/author/'], 10: {8: 'aWupUXkelezzXNFPYMwn', 9: 'gsnyder@espinoza.com', 10: [-471707352160.0, 'JbaJgmrqxClnOGvomuaZ']}}, 'level': {9: datetime.datetime(1976, 5, 12, 13, 9, 54), 10: [Decimal('4931983881697.0'), 'oiRYUfGBbWBqxRqICLGV', 'amber02@hotmail.com'], 11: {9: datetime.datetime(1992, 12, 1, 0, 57, 20), 10: Decimal('-233877103.142'), 11: [Decimal('-1554157.355'), 'aWKxXvKBPDVbiFNsFRjN']}}})
+pytuple: ('thomasdickerson@hotmail.com', datetime.datetime(1995, 9, 21, 17, 37, 12), 9029, 'ISehnUqcQMGbxIXnanjr', 'shanemartin@williams.com', Decimal('-17009.63034'), 'https://www.lamb.com/', 'http://garrison-burns.com/posts/search/blog/homepage/', 'UwuqfysxbByoyefKrsVF')
+random_choices: ['c', 'b', 'a']
+random_digit: 3
+random_digit_not_null: 5
+random_digit_not_null_or_empty:
+random_digit_or_empty: 9
+random_element: a
+random_elements: ['c', 'b']
+random_int: 8299
+random_letter: o
+random_letters: ['u', 'N', 's', 'q', 'y', 'l', 'B', 'q', 'O', 'U', 'B', 'u', 'B', 'r', 'W', 'X']
+random_lowercase_letter: u
+random_number: 85
+random_sample: ['c', 'a']
+random_uppercase_letter: F
+randomize_nb_elements: 7
+rgb_color: 227,54,39
+rgb_css_color: rgb(98,169,165)
+safari: Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/531.29.5 (KHTML, like Gecko) Version/4.1 Safari/531.29.5
+safe_color_name: maroon
+safe_email: devin85@example.org
+safe_hex_color: #776600
+secondary_address: Apt. 033
+seed: None
+seed_instance: <faker.generator.Generator object at 0x7f64de1f7ef0>
+sentence: Trade discover friend open source knowledge half.
+sentences: ['War study hit.', 'Trouble education must fly.', 'Claim modern safe tend American son million.']
+sha1: fdeba7ac28e506f17a4a739e30f96a1d655fcea3
+sha256: 2588ec90ae82db3d349ed754688fd6daa81c81b3824dbfeac8e70d26271b4b06
+simple_profile: {'username': 'carternicholas', 'name': 'Megan Gates', 'sex': 'F', 'address': '7734 Jason Mountains\nNorth Robert, OR 84337', 'mail': 'masondestiny@yahoo.com', 'birthdate': datetime.date(1904, 11, 4)}
+slug: bank-still-ability
+ssn: 421-10-7052
+state: Washington
+street_address: 7693 Ford Burgs Suite 389
+street_name: Jimmy Manor
+street_suffix: Lodge
+suffix: PhD
+suffix_female: DDS
+suffix_male: DDS
+text: Before since sense see several world. Too easy third fall improve economy impact. Movie mother service back free provide.
+texts: ['Buy single special. Player catch third carry quickly. Claim imagine up score military use.\nProbably operation defense career difference site. Attention star news week skill yet beautiful.', 'Catch side myself threat look machine. Last hotel trouble difference she partner poor.\nAppear paper either than forward teach.', 'Campaign brother after perform focus raise specific. Process behavior leg long together. Energy same glass discuss sure very activity.']
+time: 19:47:28
+time_delta: 0:00:00
+time_object: 03:54:02
+time_series: <generator object Provider.time_series at 0x7f64da19de60>
+timezone: Europe/Zurich
+tld: com
+unix_device: /dev/sdz
+unix_partition: /dev/sds0
+unix_time: 988825805
+upc_a: 264952039987
+upc_e: 14533792
+uri: https://martinez-howard.net/
+uri_extension: .html
+uri_page: about
+uri_path: search/wp-content
+url: http://davis-king.net/
+user_agent: Opera/9.91.(X11; Linux i686; xh-ZA) Presto/2.9.174 Version/10.00
+user_name: slopez
+uuid4: 679a0ee4-6272-46d1-931c-7ad3bf8d0ac2
+windows_platform_token: Windows 95
+word: radio
+words: ['east', 'check', 'chair']
+year: 1989
+zipcode: 42663
+zipcode_in_state: 58851
+zipcode_plus4: 99562-8730
+[Finished in 0.144s]
