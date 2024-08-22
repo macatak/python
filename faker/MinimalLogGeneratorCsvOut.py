@@ -2,6 +2,7 @@
 
 '''
 basic Python script to write stdout and a file
+Outputs an IP address, log level, and return code
 '''
 # imports
 from datetime import datetime
@@ -61,7 +62,7 @@ if __name__ == '__main__':
     # outWriteFile = open('/home/bikeride/sampleLogs/logGen.log', 'a')
     
     # print a header row
-    print("ip,returnCode:,logLevel")
+    print("ip,logLevel,returnCode")
 
     # set to number of lines out
     for i in range(10):
