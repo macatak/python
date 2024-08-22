@@ -71,5 +71,3 @@ if __name__ == '__main__':
         src_ip = createIpAddress()
         print("{},{},{}".format \
             (src_ip, loglevel, http_response_code))
-        # short random delay
-        time.sleep((random.random()))
