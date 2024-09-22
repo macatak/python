@@ -1,5 +1,5 @@
 # takes a Swagger/OpenAPI spec and generate a wordlist
-# off all the available endpoint
+# of all the available endpoint
 # useful for kiterunner, feroxbuster, etc.
 
 import json
