@@ -2,6 +2,9 @@
 # of all the available endpoint
 # useful for kiterunner, feroxbuster, etc.
 
+## TODO
+#    remove method for kite file issues
+
 import json
 import yaml
 import os
